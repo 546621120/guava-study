@@ -3,7 +3,11 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<!-- ADD FROM GITHUB local 4-->
+
 	<!-- master 1-->
+
+    <!-- mywork 1-->
+
 	<groupId>com.gtt</groupId>
 	<artifactId>guava-study</artifactId>
 	<version>1.0.0</version>
